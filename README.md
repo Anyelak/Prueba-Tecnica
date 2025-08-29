@@ -1,5 +1,5 @@
 Buenas tardes, espero que se encuentren muy bien.
-Primero se crea las variables y el ambiente, la cual queda de la siguiente forma:
+Primero se cree las variables y el ambiente, la cual queda de la siguiente forma:
  
 Colecciones
  
